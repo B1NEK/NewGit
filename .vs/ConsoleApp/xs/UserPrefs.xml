@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{CF80E835-0A39-440F-B9EA-14F66491EABB}|Default">
-  <MonoDevelop.Ide.ItemProperties.ConsoleApp FirstBuild="True" />
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{CF80E835-0A39-440F-B9EA-14F66491EABB}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
