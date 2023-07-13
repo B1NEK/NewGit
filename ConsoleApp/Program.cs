@@ -9,4 +9,4 @@ class Program
         Console.WriteLine("Salam, brotan");
     }
 }
-
+// Вообще то пишется "bratan"
